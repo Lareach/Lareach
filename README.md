@@ -48,7 +48,9 @@ Interested in Mobile Apps, Web Development, Frontend Developement and learning a
 - Integrated with ASP.NET MVC
 
 Project Repository:  
-https://github.com/YOUR_USERNAME/YOUR_REPOSITORY
+https://github.com/Lareach/HomeEmssionsWebApp
+Original Project Group Repository:
+https://github.com/Lareach/FIT5120_TP36
 
 ---
 
