@@ -40,8 +40,9 @@ Interested in Mobile Apps, Web Development, Frontend Developement and learning a
 
 ## Projects
 
-### Home Emissions Web Application
-## 3D Interactive House Model
+## Home Emissions Web Application
+- Website for helping Australians learn, manage the C02 emmisions using interactive tools and featues on the website.
+### 3D Interactive House Model
 - Interactive architectural model using **Three.js**
 - Allows users to explore and click elements for information
 - Integrated with ASP.NET MVC
